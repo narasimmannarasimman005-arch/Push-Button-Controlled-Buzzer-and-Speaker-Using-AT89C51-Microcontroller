@@ -126,12 +126,11 @@ void main(void)
 - The HIGH output drives the BC547 transistor and activates the buzzer and speaker.
 - When the input becomes LOW, the transistor, buzzer, and speaker are switched OFF.
 
-## Expected Output
+## Output
+<img width="537" height="245" alt="image" src="https://github.com/user-attachments/assets/c20495a8-6ec9-42fc-b03c-d512e17fdfc9" />
+<img width="539" height="248" alt="image" src="https://github.com/user-attachments/assets/36c4e1a1-de32-4c0f-8808-dde5941b3185" />
 
-| Push-button condition | `P1.2` input | `P3.2` output | Buzzer and speaker |
-|---|---:|---:|---|
-| Released | LOW | LOW | OFF |
-| Pressed | HIGH | HIGH | ON |
+
 
 ## Applications
 
